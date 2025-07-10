@@ -1,0 +1,14 @@
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\bin\Debug\EFDbFirstProduct2.exe.config
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\bin\Debug\EFDbFirstProduct2.exe
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\bin\Debug\EFDbFirstProduct2.pdb
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\bin\Debug\EntityFramework.dll
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\bin\Debug\EntityFramework.xml
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.csproj.AssemblyReference.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.FrmCategory.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.Properties.Resources.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.csproj.GenerateResource.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.csproj.CoreCompileInputs.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirs.0317A6CD.Up2Date
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.exe
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.pdb
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFDbFirstProduct2\obj\Debug\EFDbFirstProduct2.FrmProduct.resources
