@@ -1,0 +1,12 @@
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\bin\Debug\AdonetCustomerProject1.exe.config
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\bin\Debug\AdonetCustomerProject1.exe
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\bin\Debug\AdonetCustomerProject1.pdb
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.csproj.AssemblyReference.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.Properties.Resources.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.csproj.GenerateResource.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.csproj.CoreCompileInputs.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.exe
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.pdb
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.FrmCity.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.FrmMap.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\AdonetCustomerProject1\obj\Debug\AdonetCustomerProject1.FrmCustomer.resources
