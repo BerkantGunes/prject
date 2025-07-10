@@ -1,0 +1,13 @@
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\bin\Debug\EFStatistics3.exe.config
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\bin\Debug\EFStatistics3.exe
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\bin\Debug\EFStatistics3.pdb
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.csproj.AssemblyReference.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.Form1.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.Properties.Resources.resources
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.csproj.GenerateResource.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.csproj.CoreCompileInputs.cache
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.exe
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatistics3.pdb
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\bin\Debug\EntityFramework.dll
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\bin\Debug\EntityFramework.xml
+C:\Users\gunes\Desktop\DEV\UDEMY PROJECTS\1) C# ile 20 Proje\20Projects\EFStatistics3\obj\Debug\EFStatis.0E7058C4.Up2Date
